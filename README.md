@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madhusmita Jena</h1>
 <h3 align="center">A passionate beginner developer from India</h3>
 
-- 🌱 I’m currently learning *C language*
+- 🌱 I’m currently pursuing MCA from NIT Jamshedpur*
 
 - 📫 How to reach me *https://www.linkedin.com/in/madhusmita-jena-042a6a289/*
 
